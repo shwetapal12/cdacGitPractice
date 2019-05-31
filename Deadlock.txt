@@ -1,4 +1,4 @@
-PRN:190243120073		DEADLOCK
+PRN:190243120073		DEADLOCK MCQ 
 
 
 1) For effective operating system, when to check for deadlock?
