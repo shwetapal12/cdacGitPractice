@@ -1,0 +1,44 @@
+PRN:190243120073		DEADLOCK
+
+
+1) For effective operating system, when to check for deadlock?
+
+A. every time a resource request is made
+B. at fixed time intervals 
+C. both (a) and (b)
+D. none of the mentioned
+
+answer : C
+
+2) A problem encountered in multitasking when a process is perpetually denied necessary resources is called:
+A. deadlock
+B. starvation 
+C. inversion 
+D. aging
+
+answer : B
+
+3)Which one of the following is a visual ( mathematical ) way to determine the deadlock occurrence?
+
+A. resource allocation graph 
+B. starvation graph 
+C. inversion graph 
+D. none of the mentioned
+
+answer : A
+
+4)
+To avoid deadlock:
+A. there must be a fixed number of resources to allocate
+B. resource allocation must be done only once 
+C. all deadlocked processes must be aborted
+D. inversion technique can be used
+answer : A
+
+5)Which of the following condition is required for deadlock to be possible?
+A. mutual exclusion
+B. a process may hold allocated resources while awaiting assignment of other resources
+C. no resource can be forcibly removed from a process holding it 
+D. all of the mentioned
+
+answer : D
